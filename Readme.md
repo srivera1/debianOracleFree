@@ -53,8 +53,6 @@ $ /home/debianoracle/add_hostname_to_hosts.sh
 
 
 ### Using the Machine with ORACLE SQL Developer
-
-
- <video src='https://github.com/srivera1/debianOracleFree/raw/master/explicacion_sub.mp4' width=auto controls></video>
+Just watch explicacion_sub.mp4
 
 
