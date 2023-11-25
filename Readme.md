@@ -1,10 +1,10 @@
 ## Virtual Box image
 
-1) git clone https://github.com/srivera1/debianOracleFree.git
+1) $ git clone https://github.com/srivera1/debianOracleFree.git
 
-2) cd debianOracleFree/ova
+2) $ cd debianOracleFree/ova
 
-3) 7z x debianOracleFree.7z.001
+3) $ 7z x debianOracleFree.7z.001
 
 4) $ md5sum debianOracleFree.ova
 
@@ -39,7 +39,7 @@ or just execute
 
 $ sudo dhclient
 
-$ /home/debiaoracle/add_hostname_to_hosts.sh
+$ /home/debianoracle/add_hostname_to_hosts.sh
 
 
 ### DB Server port
@@ -47,9 +47,14 @@ $ /home/debiaoracle/add_hostname_to_hosts.sh
 
 
 ### Useful scripts included
-/home/debiaoracle/sqlplus.sh
+/home/debianoracle/sqlplus.sh
 
-/home/debiaoracle/add_hostname_to_hosts.sh
+/home/debianoracle/add_hostname_to_hosts.sh
 
+
+### Using the Machine with ORACLE SQL Developer
+
+
+ <video src='https://github.com/srivera1/debianOracleFree/raw/master/explicacion_sub.mp4' width=auto controls/>
 
 
